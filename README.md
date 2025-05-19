@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @HjWit
 - 👀 I’m interested in API development and Django Rest Framework
-- 🌱 I’m currently learning React
+-    also I have taken an interest in OvenMediaEngine from AirenSoft
+- 🌱 I’m currently learning React and rtmp and hls
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Star Wars is Great
 
